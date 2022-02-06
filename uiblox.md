@@ -87,3 +87,7 @@ Now that all of that is done, we need to install the Roblox plugin. **(do not cl
 You can find the <a href="https://github.com/rojo-rbx/rojo/releases/latest">latest release</a> on the rojo repo. Click Rojo.rbxm, and it should start the installation.
 
 ![rrrrrrrrrrrr](images/rojo.png)
+
+Once the installation is complete, show it in the folder (I use edge, you can do this with other browsers too.)
+
+![edgelol](images/showit.png)
