@@ -16,6 +16,10 @@ Once you've installed that visual studio code plugin (and I hope visual studio c
 
 ![searching for it](images/search.png)
 
-Next, right click the item and press **Open File Location**.
+Next, right click the item and press **Open file location**.
 
 ![press that lol](images/ofl.png)
+
+Now, you're in the folder that most likely has Roblox & Roblox Studio. Right click Roblox Player, and press Open file location (again).
+
+![press that lol x2](images/ofl2.png)
