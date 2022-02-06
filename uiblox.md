@@ -106,6 +106,8 @@ Paste Rojo.rbxm into the folder, and then reopen studio (and open a new Baseplat
 
 ![d](images/pastedit.png)
 
+# finish importing
+
 Next, open the Rojo widget. Then, go back to VS Code. Press Ctrl+Shift+P and type `star`. Make sure you pick `Rojo: Start server with project file`, and then press Enter.
 
 ![dagain](images/youseethatwasmywifewhoyoudecidedtofuuuuuuuu.png)
