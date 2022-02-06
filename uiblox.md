@@ -23,3 +23,7 @@ Next, right click the item and press **Open file location**.
 Now, you're in the folder that most likely has Roblox & Roblox Studio. Right click Roblox Player, and press Open file location (again).
 
 ![press that lol x2](images/ofl2.png)
+
+You're *finally* in the Roblox folder. From there, open up ExtraContent.
+
+![open it](images/extracontent.png)
