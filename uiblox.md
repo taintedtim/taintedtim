@@ -91,3 +91,7 @@ You can find the <a href="https://github.com/rojo-rbx/rojo/releases/latest">late
 Once the installation is complete, show it in the folder (I use edge, you can do this with other browsers too.)
 
 ![edgelol](images/showit.png)
+
+From there, right click it and press `Copy`.
+
+![pressit](images/copyrbxm.png)
