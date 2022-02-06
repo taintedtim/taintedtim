@@ -142,4 +142,4 @@ Go back into studio, and connect. After studio freezes, everything will be in Re
 
 After finally getting the CorePackagaes imported, now it's time to use them.
 
-<a href="https://taintedtim.github.io/taintedtim/use">Next Page</a>
+<a href="https://taintedtim.github.io/taintedtim/use">Move On</a>
