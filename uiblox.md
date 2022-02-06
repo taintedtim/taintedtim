@@ -12,4 +12,6 @@ Luckily, rojo makes this easy for us. Since Roblox's CorePackages were actually 
 
 https://marketplace.visualstudio.com/items?itemName=evaera.vscode-rojo
 
-Once you've installed that visual studio code plugin (and I hope visual studio code), we can go on to the next step.
+Once you've installed that visual studio code plugin (and I hope visual studio code), we can go on to the next step. Search for Roblox Player on your PC, like so (if you're not using Windows then too bad haha):
+
+![searching for it](https://raw.githubusercontent.com/taintedtim/taintedtim/gh-pages/images/search.png)
