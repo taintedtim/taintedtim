@@ -79,3 +79,11 @@ With all of that out of the way, remove every inside the `src` folder and make a
 *note: <a href="#get-the-core-packages">since you had to copy the json to your clipboard you have to re-copy LuaPackages. please do that</a>*
 
 Inside of `src/shared`, paste LuaPackages in.
+
+![rwth](images/big.png)
+
+Now that all of that is done, we need to install the Roblox plugin. **(do not close VS Code!!)**
+
+You can find the <a href="https://github.com/rojo-rbx/rojo/releases/latest">latest release</a> on the rojo repo. Click Rojo.rbxm, and it should start the installation.
+
+![rrrrrrrrrrrr](images/roe ho.png)
