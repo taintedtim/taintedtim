@@ -4,7 +4,7 @@ UIBlox is Roblox's system for managing & creating UI's (basically). It's been us
 
 And the answer will most likely be "I don't know, who do you think I am?". But not today. Because believe it or not, the minds here at taintedtimthisisnotarealcompanytm have figured it out. Okay anyways here's how to do it.
 
-# importing CorePackages
+# install rojo
 
 Firstly, you want to import the core packages. Now, you may be asking, how do I do that? Well, my lucky friend, here's how.
 
@@ -13,6 +13,8 @@ Luckily, rojo makes this easy for us. Since Roblox's CorePackages were actually 
 https://marketplace.visualstudio.com/items?itemName=evaera.vscode-rojo
 
 Once you've installed that visual studio code plugin (and I hope visual studio code), we can go on to the next step. Search for Roblox Player on your PC, like so (if you're not using Windows then too bad haha):
+
+# get the core packages
 
 ![searching for it](images/search.png)
 
@@ -32,6 +34,8 @@ Inside of ExtraContent, there will be a folder called LuaPackages. Right click i
 
 ![copy the thingy](images/copyec.png)
 
+# set up the project
+
 From there, make a new folder somewhere on your computer. Then, open it up in VS Code.
 
 ![making alt things is boring](images/openfolder.png)
@@ -48,7 +52,7 @@ Assuming you have the Rojo VS Code plugin installed, press Ctrl+Shift+P and then
 
 You should see something called default.project.json was created. Remove everything that's inside of it, and paste this in instead.
 
-```
+```json
 {
   "name": "corepackages",
   "tree": {
@@ -63,3 +67,15 @@ You should see something called default.project.json was created. Remove everyth
   }
 }
 ```
+
+Your `default.project.json` should now look like this:
+
+![idk](images/oops.png)
+
+With all of that out of the way, remove every inside the `src` folder and make a folder inside of `src` called `shared`. Your setup should look like this:
+
+![hamilton](images/uhohyoumadethewrongsuckeracuckold.png)
+
+*note: <a href="#get-the-core-packages">since you had to copy the json to your clipboard you have to re-copy LuaPackages. please do that</a>*
+
+Inside of `src/shared`, paste LuaPackages in.
