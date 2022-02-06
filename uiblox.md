@@ -27,3 +27,39 @@ Now, you're in the folder that most likely has Roblox & Roblox Studio. Right cli
 You're *finally* in the Roblox folder. From there, open up ExtraContent.
 
 ![open it](images/extracontent.png)
+
+Inside of ExtraContent, there will be a folder called LuaPackages. Right click it, and press Copy.
+
+![copy the thingy](images/copyec.png)
+
+From there, make a new folder somewhere on your computer. Then, open it up in VS Code.
+
+![making alt things is boring](images/openfolder.png)
+
+![fffffffffffffffffffffff](images/yesclickyes.png)
+
+You *may* see a popup seeing if you trust the authors of this. Just click that blue button, because I'm assuming you trust yourself.
+
+![click it click the button](images/itrustme.png)
+
+Assuming you have the Rojo VS Code plugin installed, press Ctrl+Shift+P and then type Rojo: Initialize. Press enter.
+
+![k](images/fghj.png)
+
+You should see something called default.project.json was created. Remove everything that's inside of it, and paste this in instead.
+
+```
+{
+  "name": "corepackages",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Common": {
+        "$path": "src/shared"
+      }
+    }
+  }
+}
+```
