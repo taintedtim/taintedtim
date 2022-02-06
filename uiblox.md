@@ -108,6 +108,38 @@ Paste Rojo.rbxm into the folder, and then reopen studio (and open a new Baseplat
 
 # finish importing
 
-Next, open the Rojo widget. Then, go back to VS Code. Press Ctrl+Shift+P and type `star`. Make sure you pick `Rojo: Start server with project file`, and then press Enter.
+Next, open the Rojo widget. Then, go back to VS Code. Press Ctrl+Shift+P and type `star`. Make sure you pick `Rojo: Start server with project file`, and then press Enter. Then press Enter again.
 
 ![dagain](images/youseethatwasmywifewhoyoudecidedtofuuuuuuuu.png)
+
+# fix version
+
+Back to studio. Press `Connect` on the Rojo widget.
+
+***Uh oh!*** We didn't set the Rojo version correctly. You should get an error like this:
+
+![ohmygofd](images/sofunny.png)
+
+Stop the server from VScode.
+
+![sdfjrjwee](images/stoptheserver.png)
+
+Go into the extensions tab. Press the little gear on rojo, and press Extension Settings.
+
+![esajdaks](images/setigngs.png)
+
+From there, change the release to the newest one.
+
+![newewe](images/bignumber.png)
+
+Now, start the server again.
+
+# fixed.
+
+Go back into studio, and connect. After studio freezes, everything will be in ReplicatedStorage inside of a folder titled Common. You can stop the rojo server & delete the folder, as we won't need it now.
+
+# using uiblox
+
+After finally getting the CorePackagaes imported, now it's time to use them.
+
+<a href="use.md">Move On</a>
