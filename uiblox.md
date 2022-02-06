@@ -142,4 +142,4 @@ Go back into studio, and connect. After studio freezes, everything will be in Re
 
 After finally getting the CorePackagaes imported, now it's time to use them.
 
-<a href="use.md">Move On</a>
+<a href="use">Move On</a>
