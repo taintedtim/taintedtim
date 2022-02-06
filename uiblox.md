@@ -16,4 +16,6 @@ Once you've installed that visual studio code plugin (and I hope visual studio c
 
 ![searching for it](images/search.png)
 
-Next, right click the item and press **Open File Location**. ![press that lol](images/ofl.png)
+Next, right click the item and press **Open File Location**.
+
+![press that lol](images/ofl.png)
