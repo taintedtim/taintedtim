@@ -82,6 +82,8 @@ Inside of `src/shared`, paste LuaPackages in.
 
 ![rwth](images/big.png)
 
+# get rojo plugin
+
 Now that all of that is done, we need to install the Roblox plugin. **(do not close VS Code!!)**
 
 You can find the <a href="https://github.com/rojo-rbx/rojo/releases/latest">latest release</a> on the rojo repo. Click Rojo.rbxm, and it should start the installation.
