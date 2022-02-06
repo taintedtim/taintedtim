@@ -10,7 +10,7 @@ Firstly, you want to import the core packages. Now, you may be asking, how do I 
 
 Luckily, rojo makes this easy for us. Since Roblox's CorePackages were actually *made* in Visual Studio Code & imported with rojo - it's incredibly easy. First, install the VS Code extension for rojo.
 
-<a>https://marketplace.visualstudio.com/items?itemName=evaera.vscode-rojo>https://marketplace.visualstudio.com/items?itemName=evaera.vscode-rojo</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=evaera.vscode-rojo">https://marketplace.visualstudio.com/items?itemName=evaera.vscode-rojo>https://marketplace.visualstudio.com/items?itemName=evaera.vscode-rojo</a>
 
 Once you've installed that visual studio code plugin (and I hope visual studio code), we can go on to the next step. Search for Roblox Player on your PC, like so (if you're not using Windows then too bad haha):
 
