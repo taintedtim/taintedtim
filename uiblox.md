@@ -97,3 +97,15 @@ Once the installation is complete, show it in the folder (I use edge, you can do
 From there, right click it and press `Copy`.
 
 ![pressit](images/copyrbxm.png)
+
+Next, open Roblox Studio and make a new Baseplate. Then, click the `PLUGINS` tab and open the plugin folder.
+
+![pluginfolder](images/pluginfolder.png)
+
+Paste Rojo.rbxm into the folder, and then reopen studio (and open a new Baseplate).
+
+![d](images/pastedit.png)
+
+Next, open the Rojo widget. Then, go back to VS Code. Press Ctrl+Shift+P and type `star`. Make sure you pick `Rojo: Start server with project file`, and then press Enter.
+
+![dagain](images/youseethatwasmywifewhoyoudecidedtofuuuuuuuu.png)
